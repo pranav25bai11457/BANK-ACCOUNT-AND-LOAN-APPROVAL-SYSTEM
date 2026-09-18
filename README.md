@@ -1,5 +1,6 @@
 # BANK-ACCOUNT-AND-LOAN-APPROVAL-SYSTEM
 A modular Java application for managing customer bank accounts and evaluating loan eligibility with automated amortization schedules.
+
 Key Features
 Customer Management: Profile tracking with income, credit score, debt levels, and automated Debt-to-Income (DTI) ratio calculation.
 Bank Account Management:
@@ -56,6 +57,4 @@ Upon launching the application, select from the CLI main menu:
 Select 5 to load demo sample data instantly for testing.
 Select 1 to register a customer or view profiles.
 Select 2 to perform deposits, withdrawals, or transfers.
-Select 3 to evaluate a Personal or Home Loan and view the monthly amortization table.
-Select 4 to export statements to a .txt file in the project folder.
-Select 6 to execute the built-in system unit test suite.
+Select 3 to evaluate a Personal or Home Loan and view the monthly amortizatio
